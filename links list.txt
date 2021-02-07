@@ -1,4 +1,3 @@
-duckduckgo – they mention slimco.in 2 times on their frontpage
 https://coinmarketcap.com/currencies/slimcoin/
 https://www.coingecko.com/en/coins/slimcoin
 https://coinpaprika.com/coin/slm-slimcoin/
@@ -28,3 +27,6 @@ https://cryptocurrency.fandom.com/wiki/Slimcoin
 https://www.coinlore.com/coin/slimcoin/exchanges
 https://nomics.com/assets/slm-slimcoin#about (different links to change, what is transparency grade?)
 https://es.beincrypto.com/precio/slimcoin/
+
+Solved:
+duckduckgo – they mention slimco.in 2 times on their frontpage
